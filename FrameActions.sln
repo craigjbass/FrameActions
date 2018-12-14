@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameActions", "FrameActions\FrameActions.csproj", "{09D02BAC-3B73-4240-89FA-FAE17ABB9B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameActions.Test", "FrameActions.Test\FrameActions.Test.csproj", "{22B8EFE2-7262-4ECB-A6F4-5AB000B0F29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D02BAC-3B73-4240-89FA-FAE17ABB9B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D02BAC-3B73-4240-89FA-FAE17ABB9B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D02BAC-3B73-4240-89FA-FAE17ABB9B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D02BAC-3B73-4240-89FA-FAE17ABB9B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B8EFE2-7262-4ECB-A6F4-5AB000B0F29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B8EFE2-7262-4ECB-A6F4-5AB000B0F29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B8EFE2-7262-4ECB-A6F4-5AB000B0F29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B8EFE2-7262-4ECB-A6F4-5AB000B0F29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
